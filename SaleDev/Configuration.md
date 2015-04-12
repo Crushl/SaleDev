@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="45b604a6-cb30-4b33-b137-18589f68bc74" name="SaleDev" defaultRunMode="ManagedApplication" vendor="" version="" defaultLanguage="Language.русский" dataLockControlMode="Managed" objectAutonumerationMode="NotAutoFree" modalityUseMode="DontUse">
+<?xml version="1.0" encoding="UTF-8"?><mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="45b604a6-cb30-4b33-b137-18589f68bc74" name="SaleDev" defaultRunMode="ManagedApplication" vendor="" version="" defaultLanguage="Language.русский" dataLockControlMode="Managed" objectAutonumerationMode="NotAutoFree" modalityUseMode="DontUse">
     <usePurposes>PersonalComputer</usePurposes>
+    <catalogs>Catalog.Товары</catalogs>
   <synonym key="ru" value="Sale dev"/>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="f5e61bee-ea15-4d24-8236-4a85792a92a4"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="aa370550-c0d6-4ecb-80f9-041d08f97981"/>
