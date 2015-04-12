@@ -15,4 +15,11 @@
     <managerType typeId="017bf002-362f-47a0-aa9c-7b94f4046ed2" valueTypeId="fda279ed-a2f0-43e5-846b-ce681254c7da">
     </managerType>
   </producedTypes>
+  <attributes uuid="f16c44d7-3b4e-4e8b-b1bb-98451d6622de" name="ПолноеНаименование" fullTextSearch="Use">
+    <synonym key="ru" value="Полное наименование"/>
+    <type>
+      <types>String</types>
+      <stringQualifiers length="150"/>
+    </type>
+  </attributes>
 </mdclass:Catalog>
